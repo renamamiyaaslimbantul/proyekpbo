@@ -1,0 +1,3 @@
+artifactId=tproyek
+groupId=com.tiket
+version=1.0-SNAPSHOT
